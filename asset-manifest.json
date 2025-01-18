@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/GPA-Cal/static/css/main.05dd6a63.css",
-    "main.js": "/GPA-Cal/static/js/main.ff77dd63.js",
+    "main.js": "/GPA-Cal/static/js/main.f6c8c86a.js",
     "static/media/h1.jpg": "/GPA-Cal/static/media/h1.8970fb750e67cc8e532f.jpg",
     "static/media/SGPA-Calculator-2.webp": "/GPA-Cal/static/media/SGPA-Calculator-2.2f3d6765ea26a30188ae.webp",
     "index.html": "/GPA-Cal/index.html",
     "main.05dd6a63.css.map": "/GPA-Cal/static/css/main.05dd6a63.css.map",
-    "main.ff77dd63.js.map": "/GPA-Cal/static/js/main.ff77dd63.js.map"
+    "main.f6c8c86a.js.map": "/GPA-Cal/static/js/main.f6c8c86a.js.map"
   },
   "entrypoints": [
     "static/css/main.05dd6a63.css",
-    "static/js/main.ff77dd63.js"
+    "static/js/main.f6c8c86a.js"
   ]
 }
