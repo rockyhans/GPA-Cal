@@ -1,0 +1,37 @@
+u {
+  text-decoration-style: wavy;
+}
+
+.xyx p {
+  font-size: 1.6rem;
+  text-align: center;
+  margin-top: 7px;
+}
+
+.about {
+  position: relative;
+  width: 60%;
+  font-size: 1.5rem;
+}
+
+.xyx {
+  height: auto;
+  color: orangered;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  width: 100%;
+  margin-left: 0%;
+  justify-content: space-evenly;
+}
+
+@media (max-width: 768px) {
+  .about {
+    padding-bottom: 10px;
+    font-size: 1.1rem;
+  }
+  .xyx p {
+    font-size: 1.1rem;
+  }
+}
